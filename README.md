@@ -56,13 +56,13 @@ co2variables dataset features:
 * **Accommodations**: hotel, airbnb, etc($).
 
 * **Financial services and insurance**: financial services furnished without payment; financial service charges, fees, and commissions; life, household, and health insurance($).
-
-* * **Emissions**: total CO2, MH4, N2O emissions in metric tons of CO2 equivalent.
  
-* **Personal income**: for a given year, in U.S. dollars
+* *Personal income**: for a given year, in U.S. dollars
 
 * * **Electricity (kWh)** Kilowatthours of retail electricity consumed annually
  
 * **Natural gas (CF)**: total annual natural gas consumption in cubic feet
 
 *   **Carbon intensity**: CO2 emissions from each unit of energy in a year. in kilograms of energy-related carbon dioxide per million Btu.
+*   
+* **Emissions**: total CO2, MH4, N2O emissions in metric tons of CO2 equivalent (dependent  variable).
