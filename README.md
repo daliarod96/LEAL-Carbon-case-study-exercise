@@ -60,7 +60,7 @@ co2variables dataset features:
  
 * *Personal income**: for a given year, in U.S. dollars
 
-* * **Electricity (kWh)** Kilowatthours of retail electricity consumed annually
+* **Electricity (kWh)** Kilowatthours of retail electricity consumed annually
  
 * **Natural gas (CF)**: total annual natural gas consumption in cubic feet
 
