@@ -63,5 +63,5 @@ This is a repository of my LEAL Carbon Case Study Exercise for the Machine Learn
 * **Natural gas (CF)**: total annual natural gas consumption in cubic feet
 
 *   **Carbon intensity**: CO2 emissions from each unit of energy in a year. in kilograms of energy-related carbon dioxide per million Btu.
-*   
+
 * **Emissions**: total CO2, MH4, N2O emissions in metric tons of CO2 equivalent (dependent  variable).
