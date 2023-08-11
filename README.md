@@ -8,6 +8,7 @@ co2variables dataset features:
 *   **Year**: 1991-2020.
   
 *   **State**: 50 states + D.C.
+*   **State code**: Integer between 0-51.
   
 *   **Public Transit Vehicle Revenue Miles (VRM)**: Annual miles that (public transit) vehicles are scheduled to or actually travel while in revenue service. [1](https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary#V)
 
