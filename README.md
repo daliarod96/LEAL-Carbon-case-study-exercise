@@ -1,3 +1,5 @@
+I extracted annual state-level emissions data for the year 1991-2020, analyzed it, and created a linear model to estimate annual CO2 emissions.
+
 ### **co2variables features**:
 
 *   **Year**: 1991-2020.
